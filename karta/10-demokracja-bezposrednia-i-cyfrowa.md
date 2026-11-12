@@ -82,7 +82,7 @@ widzą rachunek, zanim zagłosują.
 ### 2.5. Co znaczy „wiąże”
 - Ustawa przyjęta w referendum **wchodzi w życie wprost** — nie czeka na
   „wykonanie” przez parlament. Podpisuje ją i ogłasza organ wyborczy, jeżeli
-  prezydent nie zrobi tego w terminie.
+  głowa państwa nie zrobi tego w terminie.
 - Przez `[4]` lata parlament nie może jej uchylić ani zmienić wbrew jej celowi
   inaczej niż przez nowe referendum.
 - Rząd, który nie wykonuje ustawy referendalnej, odpowiada jak za każde

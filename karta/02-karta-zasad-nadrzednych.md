@@ -135,9 +135,12 @@ Liczby w `[nawiasach]` są przykładowe.
 >    zrzeszania się i rokowań zbiorowych. Ochrona pracy przysługuje każdemu, kto
 >    osobiście wykonuje pracę dla innych, bez względu na rodzaj umowy.
 > 5. Państwo tworzy warunki dla wytwarzania, inwestycji i innowacji, z których
->    pochodzi dobrobyt i zdolność finansowania zadań publicznych. Administracja
->    publiczna jest ograniczona do zadań koniecznych; jej koszt jest jawny
->    i corocznie rozliczany.
+>    pochodzi dobrobyt i zdolność finansowania zadań publicznych.
+> 6. Środki publiczne wydaje się tak, aby jak największa ich część służyła
+>    bezpośrednio obywatelom — leczeniu, nauczaniu, ochronie, orzekaniu,
+>    utrzymaniu infrastruktury — a jak najmniejsza obsłudze samej administracji.
+>    Każda instytucja publiczna co roku ogłasza, jaka część jej wydatków
+>    i zatrudnienia przypada na jedno i na drugie.
 
 - **Dlaczego.** Własność daje niezależność od władzy; przedsiębiorczość tworzy
   zasoby, z których finansuje się solidarność.
@@ -488,7 +491,8 @@ Liczby w `[nawiasach]` są przykładowe.
 > 1. Rzeczpospolita przestrzega wiążącego ją prawa międzynarodowego.
 > 2. Na podstawie umowy międzynarodowej może przekazać organizacji
 >    międzynarodowej wykonywanie niektórych kompetencji władzy. Zgoda wymaga
->    większości `[2/3]` w obu izbach albo referendum.
+>    uchwały parlamentu i zatwierdzenia w referendum w trybie właściwym dla
+>    zmiany konstytucji.
 > 3. Nie podlegają przekazaniu kompetencje, których utrata pozbawiłaby
 >    Rzeczpospolitą zdolności samodzielnego decydowania o swoim ustroju,
 >    obronie i prawach podstawowych. `[katalog — do decyzji obywateli]`

@@ -41,6 +41,7 @@ biurokracji, prawo do eksperymentu, przegląd przyszłości (nr 12, Z24–Z25).
 | 10 | [Demokracja bezpośrednia i cyfrowa](karta/10-demokracja-bezposrednia-i-cyfrowa.md) | Stałe referenda, obowiązek udziału, wybór i odwołanie urzędników, głosowanie elektroniczne, droga zapasowa |
 | 11 | [Organy państwa](karta/11-organy-panstwa.md) | Sąd konstytucyjny z losowania; głowa państwa jako arbiter; parlament jednoizbowy; organy kontrolne |
 | 12 | [Państwo gotowe na przyszłość](karta/12-panstwo-przyszlosci.md) | Praca i AI, mniej biurokracji, finanse, minimum życiowe i dochód bezwarunkowy — analiza i propozycje |
+| 13 | [Przegląd i uproszczenie](karta/13-przeglad-i-uproszczenie.md) | Audyt projektu: złożoność, luki, miejsca na manipulację; 18 propozycji zmian |
 
 Kto ma kwadrans: nr 1, potem „Trzy decyzje” poniżej, potem nr 6.
 
