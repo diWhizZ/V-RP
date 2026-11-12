@@ -1,101 +1,86 @@
 # V-RP — Karta Założycielska
 
-Projekt dokumentu wyjściowego dla przyszłej Konstytucji Rzeczypospolitej Polskiej.
-To **nie jest** tekst konstytucji. To fundament: co konstytucja ma chronić, jak ma
-rozstrzygać spory wartości, jakich błędów unikać i o co trzeba zapytać obywateli.
+Projekt dokumentu wyjściowego dla przyszłej Konstytucji Rzeczypospolitej
+Polskiej. To **nie jest** tekst konstytucji. To fundament: co konstytucja ma
+chronić, kto i jak ma decydować, i o co trzeba zapytać obywateli.
 
-**Status:** wersja robocza 1.1 — materiał do krytyki, nie do przyjęcia.
-Zmiany: 0.2 — referendum jako stały, wiążący i obowiązkowy mechanizm (nr 10, Z2);
-0.3 — wybór i odwoływanie osób przez obywateli, próg 3/4 dla zmiany konstytucji,
-zasada „czystej karty”;
-0.4 — obowiązek udziału także w wyborach, próg dwustopniowy (3/4 i 3/5), wybór
-imienny posłów, rzecznik bezpieczeństwa z wyboru;
-0.5 — sąd konstytucyjny z losowania, głowa państwa jako arbiter (nr 11);
-0.6 — losowanie zwykłe, ustawy ustrojowe zatwierdzane w referendum, reguły
-powtórek;
-0.7 — kadencje sędziów z losowania, organy jednoosobowe (losowanie + wybór),
-jedna izba, wolny mandat;
-0.8 — ponowna kadencja sędziego za zgodą obywateli, warianty reprezentacji
-(nr 11, pkt 3.5–3.6);
-0.9 — zgromadzenie obywatelskie z losowania, limit 350 osób i limit uposażeń
-(nr 11, pkt 3.7);
-1.0 — losowani obywatele głosują w parlamencie razem z posłami; kadencja
-najwyżej 4 lata; zabezpieczenia przeciw nadużyciom;
-1.1 — zasady na przyszłość: minimum z urzędu, fundusz obywatelski, mniej
-biurokracji, prawo do eksperymentu, przegląd przyszłości (nr 12, Z24–Z25).
+**Wersja 2.0 (robocza)** — materiał do krytyki, nie do przyjęcia.
 
-## Jak czytać
+## Dokumenty
 
 | Nr | Dokument | Co zawiera |
 |----|----------|------------|
-| 0 | [Diagnoza](karta/00-diagnoza.md) | 15 dylematów konstytucyjnych; podział: konstytucja / ustawa / samorząd |
-| 1 | [Deklaracja Celów Narodu i Państwa](karta/01-deklaracja-celow.md) | Jedna strona: po co jest państwo |
-| 2 | [Karta Zasad Nadrzędnych](karta/02-karta-zasad-nadrzednych.md) | 25 zasad w brzmieniu konstytucyjnym, z uzasadnieniem, kosztem i granicą |
-| 3 | [Mapa Konfliktów Wartości](karta/03-mapa-konfliktow-wartosci.md) | Tabela dylematów, zasad i zabezpieczeń; sprzeczności nazwane wprost |
-| 4 | [Szkic Architektury Konstytucji](karta/04-szkic-architektury.md) | Rozdziały, hierarchia źródeł prawa, organy |
-| 5 | [Rejestr Ryzyk](karta/05-rejestr-ryzyk.md) | 20 zagrożeń i środki zaradcze |
-| 6 | [Lista Pytań do Obywateli](karta/06-pytania-do-obywateli.md) | 30 pytań, które powinny przesądzić o kształcie konstytucji |
-| 7 | [Test Odporności](karta/07-test-odpornosci.md) | 7 scenariuszy kryzysowych i słabe punkty, które pozostają |
-| 8 | [Weryfikacja Obywatelska](karta/08-weryfikacja-obywatelska.md) | Jak projekt ma być przedstawiony, krytykowany i zmieniany |
-| 9 | [Protokół Rozbieżności](karta/09-protokol-rozbieznosci.md) | Trzy konkurencyjne stanowiska, wzajemna krytyka, kompromis |
-| 10 | [Demokracja bezpośrednia i cyfrowa](karta/10-demokracja-bezposrednia-i-cyfrowa.md) | Stałe referenda, obowiązek udziału, wybór i odwołanie urzędników, głosowanie elektroniczne, droga zapasowa |
-| 11 | [Organy państwa](karta/11-organy-panstwa.md) | Sąd konstytucyjny z losowania; głowa państwa jako arbiter; parlament jednoizbowy; organy kontrolne |
-| 12 | [Państwo gotowe na przyszłość](karta/12-panstwo-przyszlosci.md) | Praca i AI, mniej biurokracji, finanse, minimum życiowe i dochód bezwarunkowy — analiza i propozycje |
-| 13 | [Przegląd i uproszczenie](karta/13-przeglad-i-uproszczenie.md) | Audyt projektu: złożoność, luki, miejsca na manipulację; 18 propozycji zmian |
+| 1 | [Deklaracja Celów Narodu i Państwa](karta/1-deklaracja.md) | Jedna strona: po co jest państwo |
+| 2 | [Karta Zasad Nadrzędnych](karta/2-karta-zasad.md) | 25 zasad, każda najwyżej w trzech ustępach |
+| 3 | [Tabela organów](karta/3-tabela-organow.md) | Kto, jak wyłaniany, na jak długo, kto usuwa |
+| 4 | [Tabela głosowań](karta/4-tabela-glosowan.md) | Co rozstrzygają obywatele, kto to wywołuje, jaką większością |
+| 5 | [Tabela liczb](karta/5-tabela-liczb.md) | Wszystkie progi, terminy i wielkości |
+| 6 | [Słownik](karta/6-slownik.md) | Jedno pojęcie — jedna nazwa — jedno znaczenie |
+| 7 | [Uzasadnienie](karta/7-uzasadnienie.md) | Dlaczego tak, koszty, mapa konfliktów, test odporności, rejestr ryzyk |
+| 8 | [Pytania do obywateli](karta/8-pytania-do-obywateli.md) | 30 pytań: 17 do potwierdzenia, 13 otwartych |
 
-Kto ma kwadrans: nr 1, potem „Trzy decyzje” poniżej, potem nr 6.
+Kto ma kwadrans: nr 1, potem „Ustrój w skrócie” poniżej, potem nr 8.
 
-## Wspólne narzędzie: test czterech pytań
+[Archiwum](archiwum/) zawiera dokumenty z etapu dyskusji (wersje 0.1–1.1):
+diagnozę 15 dylematów, zapis sporów, analizy szczegółowe i przegląd, z którego
+wynikła wersja 2.0. Miejscami opisują rozwiązania już zmienione.
 
-Żadna wartość nie jest w Karcie automatycznie nadrzędna. Każdy konflikt wartości
-rozstrzyga się, odpowiadając kolejno na cztery pytania:
+## Ustrój w skrócie
 
-1. **Cel** — jaki cel konstytucyjny ma być osiągnięty i czy jest on rzeczywisty,
-   a nie pretekstowy?
-2. **Najmniejsza ingerencja** — które rozwiązanie osiąga ten cel, najmniej
-   ograniczając prawa i godność osoby?
-3. **Trwałość** — które rozwiązanie najlepiej chroni zdolność państwa do
-   przetrwania i nie zamyka dróg przyszłym pokoleniom?
-4. **Korekta** — w jaki sposób obywatele mogą to rozstrzygnięcie odwrócić, jeśli
-   okaże się błędne, bez burzenia ustroju?
+- **Obywatele** głosują dwa razy w roku — obowiązkowo, z prawem wstrzymania
+  się. Mogą uchwalić ustawę, uchylić ustawę parlamentu, zmienić konstytucję,
+  wybrać i odwołać. Wynik wiąże.
+- **Parlament** ma jedną izbę: 200 posłów z wyboru i 120 obywateli
+  z losowania, z równym głosem. Jedna kadencja, pensja równa przeciętnej,
+  bez dyscypliny partyjnej.
+- **Rząd** rządzi i odpowiada przed parlamentem.
+- **Głowa państwa** pochodzi z wyboru, strzeże konstytucji, może zawiesić
+  ustawę i odesłać ją do obywateli. Nie kieruje rządem.
+- **Sąd konstytucyjny, organ wyborczy i rada sądownictwa** są z losowania —
+  nikt ich nie obsadza.
+- **Reguły gry** (ustawy o sądach, wyborach, mediach, prokuraturze) wchodzą
+  w życie dopiero po zatwierdzeniu w referendum.
+- **Konstytucję** zmieniają tylko obywatele: 3/4 dla zasad i praw, 3/5 dla
+  reszty.
 
-Rozwiązanie, które nie ma odpowiedzi na pytanie 4, jest wadliwe, nawet jeśli
-dobrze wypada w pozostałych.
+## Trzy reguły prostoty
 
-## Trzy decyzje, które muszą podjąć obywatele, a nie model AI
+| Reguła | Treść |
+|--------|-------|
+| Trzy sposoby obsadzania urzędów | Wybór · losowanie · losowanie krótkiej listy i wybór |
+| Trzy większości | ponad 1/2 · 3/5 · 3/4 |
+| Każdy termin ma skutek | Gdy organ zwleka, następuje to, co zapisano w konstytucji |
 
-1. **Rozstrzygnięcia światopoglądowe.** Czy i jak konstytucja ma przesądzać
-   kwestie początku i końca życia, definicji małżeństwa i rodziny oraz relacji
-   państwa z Kościołami — czy też ma zostawić je ustawom. To spór o to, co jest
-   dobre, a nie o to, co jest sprawne. Karta podaje warianty i ich koszty, ale
-   żadnego nie wybiera.
-2. **Kto rządzi i kto za to odpowiada.** Wybór ustroju władzy wykonawczej: rząd
-   z silnym premierem i prezydentem-arbitrem, prezydent kierujący rządem, czy
-   model pośredni. Każdy wariant da się zbudować poprawnie. Wybór zależy od
-   tego, czemu obywatele bardziej ufają i czego bardziej się boją.
-   *Kierunek autorów (0.5): rządzi rząd odpowiedzialny przed parlamentem;
-   głowa państwa z wyboru powszechnego jest arbitrem z silnym głosem.*
-3. **Co jest nienaruszalne.** Które zasady żadna większość nie może zmienić,
-   których kompetencji państwo nie może przekazać organizacji międzynarodowej
-   oraz jak trudno ma być zmienić resztę. To decyzja o tym, na ile dzisiejsze
-   pokolenie chce związać następne — nikt poza obywatelami nie ma do niej tytułu.
+## Jak rozstrzygać konflikt wartości
+
+Żadna wartość nie jest z góry nadrzędna. Każdy konflikt przechodzi przez
+cztery pytania: jaki jest **cel**; co **najmniej ogranicza** prawa osoby; co
+najlepiej chroni **trwałość** państwa i przyszłe pokolenia; jak obywatele
+mogą rozstrzygnięcie **skorygować**.
+
+## Decyzje, które należą wyłącznie do obywateli
+
+Projekt ich nie podejmuje:
+
+1. **Rozstrzygnięcia światopoglądowe** — życie, małżeństwo i rodzina,
+   relacja państwa ze związkami wyznaniowymi.
+2. **Co jest nienaruszalne** — czy są zasady, których nie zmieni żadna
+   większość, i jakich kompetencji państwo nie może przekazać.
+
+Trzecią decyzję z pierwszej wersji — **kto rządzi i kto odpowiada** — autorzy
+projektu rozstrzygnęli kierunkowo (rząd przed parlamentem, głowa państwa jako
+strażnik). Obywatele mogą ten kierunek odrzucić.
 
 ## Zastrzeżenia
 
-- **Autorstwo.** Zlecenie zakładało „Radę Modeli AI”. Ten tekst napisał jeden
-  model. Wymóg niezależnej krytyki został zastąpiony trzema celowo sprzecznymi
-  stanowiskami w [Protokole Rozbieżności](karta/09-protokol-rozbieznosci.md).
-  To słabszy substytut prawdziwej niezależności; tekst powinien zostać poddany
-  krytyce innych modeli i — przede wszystkim — ludzi.
-- **Legitymacja.** Model AI nie ma mandatu do stanowienia prawa ani do
-  wybierania między wartościami w imieniu obywateli. Tam, gdzie Karta coś
-  proponuje, jest to propozycja z podanym kosztem, a nie rozstrzygnięcie.
-- **Liczby.** Progi, terminy i większości w nawiasach kwadratowych, np.
-  `[3/5]`, są wartościami przykładowymi do dyskusji.
+- **Autorstwo.** Projekt powstał w rozmowie jednego obywatela z jednym
+  modelem AI. Nie jest wynikiem konsultacji ani pracy zespołu.
+- **Legitymacja.** Wszystkie rozstrzygnięcia są propozycjami; mandat mają
+  tylko obywatele.
 - **Czysta karta.** Projekt nie wzoruje się na obecnej ani dawnych
-  konstytucjach i ustawach Rzeczypospolitej; organy nazywa się według funkcji,
-  nie według dzisiejszych nazw. Każde rozwiązanie musi obronić się samo, nie
-  przez to, że „tak było”. Doświadczenia — polskie i obce — służą wyłącznie
-  jako dowód, co działa, a co zawodzi.
-- **Weryfikacja.** Przykłady z innych państw podano z pamięci, bez sprawdzenia
-  w źródłach. Dokument nie jest opinią prawną.
+  konstytucjach Rzeczypospolitej.
+- **Liczby** w [Tabeli liczb](karta/5-tabela-liczb.md) są wartościami
+  proponowanymi. Granica długu pozostaje nieustalona.
+- **Brak wyliczeń i prób.** Nie policzono kosztów; kilku rozwiązań nie
+  stosuje w tej postaci żadne znane autorom państwo.
+- Dokument nie jest opinią prawną.
