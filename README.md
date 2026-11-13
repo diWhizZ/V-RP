@@ -18,6 +18,7 @@ chronić, kto i jak ma decydować, i o co trzeba zapytać obywateli.
 | 6 | [Słownik](karta/6-slownik.md) | Jedno pojęcie — jedna nazwa — jedno znaczenie |
 | 7 | [Uzasadnienie](karta/7-uzasadnienie.md) | Dlaczego tak, koszty, mapa konfliktów, test odporności, rejestr ryzyk |
 | 8 | [Pytania do obywateli](karta/8-pytania-do-obywateli.md) | 30 pytań: 17 do potwierdzenia, 13 otwartych |
+| 9 | [Symulacja odpowiedzi](karta/9-symulacja-odpowiedzi.md) | Które odpowiedzi dają równowagę między poglądami; model na jawnych założeniach, nie sondaż ([skrypt](narzedzia/symulacja.py)) |
 
 Kto ma kwadrans: nr 1, potem „Ustrój w skrócie” poniżej, potem nr 8.
 

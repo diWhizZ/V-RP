@@ -40,7 +40,7 @@ cztery pytania:
 
 | Konflikt | Zasada rozstrzygająca | Zabezpieczenie | Droga korekty |
 |----------|----------------------|----------------|---------------|
-| Wolność ↔ bezpieczeństwo | Ograniczenie tylko ustawą ustrojową, konieczne i czasowe (Z9, Z20) | Zgoda sądu na inwigilację; stan nadzwyczajny wygasa bez zatwierdzenia | Weto ludowe; skarga konstytucyjna |
+| Wolność ↔ bezpieczeństwo | Ograniczenie tylko ustawą, konieczne i czasowe (Z9, Z20) | Zgoda sądu na inwigilację; stan nadzwyczajny wygasa bez zatwierdzenia | Weto ludowe; skarga konstytucyjna |
 | Większość ↔ mniejszość | Większość decyduje o polityce, nie o istocie praw (Z9, Z12) | Tor konstytucyjny z progiem 3/4; sąd konstytucyjny z losowania | Zmiana konstytucji |
 | Suwerenność ↔ współpraca międzynarodowa | Przekazuje się wykonywanie kompetencji, za zgodą obywateli, odwracalnie (Z24) | Referendum 3/4; katalog nieprzekazywalny | Wypowiedzenie w tym samym trybie |
 | Sprawność rządzenia ↔ kontrola | Rządzi rząd; kontrolują parlament, głowa państwa i obywatele (Z15) | Każdy termin ma skutek; rząd odwołuje się tylko z wyborem następnego | Wybory co 2 lata; odwołanie |
